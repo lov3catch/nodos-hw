@@ -1,4 +1,4 @@
 # DEVOPS FOR DEVELOPERS
 
 
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![workflow](https://github.com/lov3catch/nodos-hw/actions/workflows/workflow.yml/badge.svg)
