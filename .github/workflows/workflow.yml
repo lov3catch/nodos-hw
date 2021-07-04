@@ -4,6 +4,8 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - name: "checkout"
+        uses: "actions/checkout@v2"
       - name: Install dependencies
         run: make install
       - name: Run test
